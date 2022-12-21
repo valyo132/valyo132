@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valentin Markov
-- 👀 I’m interested in Web and C# Delevoping at all.
+- 👀 I’m interested in Web and C# Developing at all.
 - 🌱 I’m currently learning C# in high school and [SoftUni](https://softuni.bg), a Software University.
 - 💞️ I’m looking for everything that can help me gain more experience that I can use in my future workspace.
 - 📫 You can e-mail me at 7daysfan@gmail.com
