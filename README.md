@@ -5,10 +5,20 @@
 - 📫 You can e-mail me at 7daysfan@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
-✔️Passed Courses✔️
+<span align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+</span>
+<span>
+  <img src="https://user-images.githubusercontent.com/101991279/212461870-0a789119-70dd-4cf0-9eb6-0c57ad1b05f7.png" width="40" height="40"/>
+</span>
+<span>
+  <img src="https://user-images.githubusercontent.com/101991279/212462939-93298844-7102-45a6-82c9-324a056046a2.png" width="40" height="40"/>
+</span>
+<span>
+  <img src="https://user-images.githubusercontent.com/101991279/212462955-10cd8993-b62b-49da-bf20-dddd7a0111a6.png" width="40" height="40"/>
+</span>
 
+<h3>✔️Passed Courses✔️</h3>
 
 | Course  | Certificate |
 | ------------- | ------------- |
@@ -17,7 +27,9 @@
 | [C# Advanced](https://softuni.bg/trainings/3842/csharp-advanced-september-2022)  | [🎓📜](https://softuni.bg/certificates/details/143937/611ac87c)  |
 | [C# OOP](https://softuni.bg/trainings/3843/csharp-oop-october-2022)  | [🎓📜](https://softuni.bg/certificates/details/150722/68e7dc4c)  |
 
-<h3 align="left">Connect with me:</h3>
+<p> </p>
+
+<h3 align="left">How to reach me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/valentin-markov-079596238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin markov" height="30" width="40" /></a>
 <a href="https://discord.gg/#0308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0308" height="30" width="40" /></a>
