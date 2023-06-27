@@ -28,6 +28,7 @@
 | [C# OOP](https://softuni.bg/trainings/3843/csharp-oop-october-2022)  | [🎓📜](https://softuni.bg/certificates/details/150722/68e7dc4c)  |
 | [MS SQL](https://softuni.bg/trainings/3965/ms-sql-january-2023)  | [🎓📜](https://softuni.bg/certificates/details/157735/e105c269)  |
 | [Entity Framework Core](https://softuni.bg/trainings/3966/entity-framework-core-february-2023)  | [🎓📜](https://softuni.bg/certificates/details/164881/5b992e70)  |
+| [ASP.NET Fundamentals](https://softuni.bg/trainings/4105/asp-net-fundamentals-may-2023)  | [🎓📜](https://softuni.bg/certificates/details/175360/fb89f8f8)  |
 
 <p> </p>
 
