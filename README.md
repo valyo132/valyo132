@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valentin Markov
 - 👀 I’m interested in Web and C# Developing at all.
-- 🌱 I’m currently learning C# [SoftUni](https://softuni.bg), a Software University.
+- 🌱 I’m currently learning C# in [SoftUni](https://softuni.bg), a Software University.
 - 💞️ I’m looking for everything that can help me gain more experience that I can use in my future workspace.
 - 📫 You can e-mail me at ValentinMarkov132@gmail.com
 
