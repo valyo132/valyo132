@@ -29,6 +29,7 @@
 | [MS SQL](https://softuni.bg/trainings/3965/ms-sql-january-2023)  | [🎓📜](https://softuni.bg/certificates/details/157735/e105c269)  |
 | [Entity Framework Core](https://softuni.bg/trainings/3966/entity-framework-core-february-2023)  | [🎓📜](https://softuni.bg/certificates/details/164881/5b992e70)  |
 | [ASP.NET Fundamentals](https://softuni.bg/trainings/4105/asp-net-fundamentals-may-2023)  | [🎓📜](https://softuni.bg/certificates/details/175360/fb89f8f8)  |
+| [ASP.NET Advanced](https://softuni.bg/trainings/4107/asp-net-advanced-june-2023)  | [🎓📜](https://softuni.bg/certificates/details/182189/a6b065e6)  |
 
 <p> </p>
 
