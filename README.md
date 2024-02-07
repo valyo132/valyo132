@@ -9,6 +9,9 @@
 <span align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 </span>
 <span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" width="40" height="40"/>
+</span>
+<span>
   <img src="https://user-images.githubusercontent.com/101991279/212461870-0a789119-70dd-4cf0-9eb6-0c57ad1b05f7.png" width="40" height="40"/>
 </span>
 <span>
@@ -17,6 +20,10 @@
 <span>
   <img src="https://user-images.githubusercontent.com/101991279/212462955-10cd8993-b62b-49da-bf20-dddd7a0111a6.png" width="40" height="40"/>
 </span>
+<span>
+  <img src="https://repository-images.githubusercontent.com/584068292/2445b500-869d-498e-ae47-2a3e5820e3c5" width="40" height="40"/>
+</span>
+
 
 <h3>✔️Passed Courses✔️</h3>
 
