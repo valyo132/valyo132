@@ -31,6 +31,7 @@
 | [ASP.NET Fundamentals](https://softuni.bg/trainings/4105/asp-net-fundamentals-may-2023)  | [🎓📜](https://softuni.bg/certificates/details/175360/fb89f8f8)  |
 | [ASP.NET Advanced](https://softuni.bg/trainings/4107/asp-net-advanced-june-2023)  | [🎓📜](https://softuni.bg/certificates/details/182189/a6b065e6)  |
 | [HTML & CSS](https://softuni.bg/trainings/4239/html-and-css-september-2023)  | [🎓📜](https://softuni.bg/certificates/details/190845/fbe914e0)  |
+| [JS Front-End](https://softuni.bg/trainings/4240/js-front-end-october-2023)  | [🎓📜](https://softuni.bg/certificates/details/199197/de1c77be)  |
 
 <p> </p>
 
