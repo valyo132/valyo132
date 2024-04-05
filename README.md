@@ -39,7 +39,8 @@
 | [ASP.NET Advanced](https://softuni.bg/trainings/4107/asp-net-advanced-june-2023)  | [🎓📜](https://softuni.bg/certificates/details/182189/a6b065e6)  |
 | [HTML & CSS](https://softuni.bg/trainings/4239/html-and-css-september-2023)  | [🎓📜](https://softuni.bg/certificates/details/190845/fbe914e0)  |
 | [JS Front-End](https://softuni.bg/trainings/4240/js-front-end-october-2023)  | [🎓📜](https://softuni.bg/certificates/details/199197/de1c77be)  |
-| [JS Advanced](https://softuni.bg/trainings/4372/js-advanced-january-2024)  | [🎓📜](https://softuni.bg/users/profile/certificates?username=Valentin_Markov)  |
+| [JS Advanced](https://softuni.bg/trainings/4372/js-advanced-january-2024)  | [🎓📜](https://softuni.bg/certificates/details/203302/f9c645e6)  |
+| [JS Advanced](https://softuni.bg/trainings/4373/js-applications-february-2024)  | [🎓📜](https://softuni.bg/certificates/details/209545/0551441e)  |
 
 <p> </p>
 
